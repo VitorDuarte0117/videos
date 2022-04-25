@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# Website that repoduce videos like YouTube
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,5 +70,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# Website that repoduce videos like YouTube
+
 >>>>>>> 5a694da18e468c98db751b2a567d1724c8488075
